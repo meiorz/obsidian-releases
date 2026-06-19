@@ -20776,6 +20776,13 @@
     "repo": "gust4v0di4sc/Material-Icons-Obsidian"
   },
   {
+    "id": "material-icons-inline",
+    "name": "Material Icons Inline",
+    "author": "meiorz",
+    "description": "Render Google Material Icons inline in your notes using !icon[name] syntax.",
+    "repo": "meiorz/material-icons-obsidian"
+  },
+  {
     "id": "sidebar-organizer",
     "name": "Sidebar Organizer",
     "author": "zhywjml",
