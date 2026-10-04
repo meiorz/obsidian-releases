@@ -34326,5 +34326,12 @@
     "author": "c-miles",
     "description": "Render your vault's link graph as a cinematic, auto-rotating 3D orrery: bloom-lit nodes, a nebula backdrop, and a starfield. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "c-miles/orrery"
+  },
+  {
+    "id": "material-icons-inline",
+    "name": "Material Icons Inline",
+    "author": "meiorz",
+    "description": "Render Google Material Icons inline using !icon[name] syntax.",
+    "repo": "meiorz/material-icons-obsidian"
   }
 ]
